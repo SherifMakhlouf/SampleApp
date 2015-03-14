@@ -1,5 +1,9 @@
 .gradle
 build/
-
+local.properties
+.idea
+*.iml
+build
+.DS_Store
 # Ignore Gradle GUI config
 gradle-app.setting
