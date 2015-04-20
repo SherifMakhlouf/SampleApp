@@ -1,4 +1,4 @@
-# GoEuro
+# Sample App
 A sample Android App
 
 #Libraries
